@@ -1,0 +1,19 @@
+---
+title: "TP1 (FAS-1001)"
+author: "Maya Mansour"
+format: pdf
+editor: visual
+date: "22 Janvier 2024"
+---
+
+![](images/Screenshot TP1.png)
+
+Pour l'étape 4, j'ai utilisé la commande \$ git add . afin d'ajouter mon document "TP1 (FAS-1001)" à mon historique Git. J'ai tappé cette commande dans mon terminal à partir de RStudio.
+
+Ensuite, je l'ai enregistré en utilisant la commande \$ git commit -m "Premier commit".
+
+J'ai suivi le même procédé à l'étape 6 pour enregistrer mon document intitulé "Projet de session", en tappant \$ git add . puis \$ git commit -m "Création du document du travail de session".
+
+Lors de l'étape 4, un message d'erreur s'est affiché. J'ai donc suivi les étapes détaillées dans le message et ma commande \$ git commit a fonctionné.
+
+![](images/Screenshot (107).png)
