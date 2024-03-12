@@ -1,0 +1,52 @@
+---
+title: "Plan de recherche: Quel rôle les caractéristiques sociodémographiques jouent-elles dans les contrôles routiers?"
+author: "Maya Mansour"
+format: pdf
+editor: visual
+---
+
+# Question de recherche 
+
+## Introduction 
+
+Face à l'augmentation des préoccupations liées aux interactions entre les forces de l'ordre et les citoyens aux États-Unis, il est devenu impératif de comprendre les facteurs qui influencent le déroulement de ces rencontres. De nombreuses questions subsistent quant à l'impact des caractéristiques sociodémographiques sur les résultats des contrôles routiers ou des arrêts policiers. En effet, les thèmes d'origine ethnique et de violence policière sont souvent sujet principal des articles de presse ou des journaux télévisés aux États-Unis. Cette étude vise à examiner de manière approfondie le rôle des facteurs tels que l'appartenance ethnique, le genre et l'âge dans la détermination des issues des interactions entre individus et policiers. En se concentrant sur le contexte politique actuel aux États-Unis, marqué par des préoccupations croissantes concernant la brutalité policière et la corruption au sein des forces de l'ordre, cette recherche se penche sur la question suivante : quel est le rôle des caractéristiques sociodémographiques dans l'issue des contrôles routiers aux États-Unis ? En analysant ces dynamiques, cette recherche cherche à apporter des contributions à la compréhension des inégalités sociales et éthinque dans le système de justice pénale, avec des implications potentielles pour les politiques publiques et les pratiques policières.
+
+## Motivations 
+
+L'histoire tragique de George Floyd, un homme afro-américain tué lors d'une interpellation policière à Minneapolis en 2020, a profondément secoué les États-Unis et a déclenché une vague de protestations à travers le pays. Les images capturées par des témoins, montrant un policier blanc s'agenouillant sur le cou de Floyd pendant près de neuf minutes alors que celui-ci suppliait pour sa vie, ont mis en lumière les injustices et les brutalités subies par les minorités raciales aux mains des forces de l'ordre. Cet événement a été un catalyseur pour une mobilisation sans précédent de citoyens américains, se manifestant à travers des manifestations massives, des pétitions en ligne, des actions judiciaires et des appels à des réformes significatives du système de justice pénale. Ces réactions témoignent de l'importance capitale de la question du traitement policier et des inégalités raciales dans le pays, et soulignent le besoin urgent d'une compréhension approfondie des facteurs sociodémographiques qui influent sur les résultats des interactions entre la police et les individus, en particulier lors des contrôles routiers. Nous cherchons à comprendre si ces évènements de violence policière sont isolés ou bien si cela prend l'ampleur d'un problème systemique, ancré dans les traditions et les habitudes de la police américaine. En réponse à cette prise de conscience collective et à cette demande de changement, cette cette étude vise à examiner le rôle des caractéristiques sociodémographiques dans ces rencontres, dans l'espoir d'apporter des éclairages cruciaux pour guider les réformes politiques et les pratiques policières vers une plus grande équité et une justice sociale.
+
+# Données et méthodes 
+
+## Stanford Open Policing Project 
+
+Le Stanford Open Policing Project a été lancé en réponse à un besoin crucial de transparence et de responsabilité dans les pratiques policières aux États-Unis. Les incidents tragiques de brutalité policière, comme celui qui a coûté la vie à George Floyd à Minneapolis en 2020, ont mis en évidence les graves problèmes de confiance et les inégalités systémiques qui persistent dans le système de justice pénale américain. Face à ces défis, les fondateurs du Stanford Open Policing Project ont reconnu la nécessité de recueillir des données fiables et exhaustives sur les interactions entre la police et les citoyens à travers le pays. Les chercheurs collectent et normalisent des données sur les arrêts de véhicules et de piétons par les services de police à travers le pays. En rendant ces données accessibles au public et en les analysant de manière approfondie, le projet vise à identifier les tendances, les schémas et les disparités dans le traitement des individus par les forces de l'ordre. En mettant en lumière ces problèmes, le projet vise à stimuler le débat public, à sensibiliser aux questions de justice sociale et à influencer les réformes politiques et les pratiques policières pour promouvoir une application plus équitable de la loi et renforcer la confiance entre les communautés et les forces de l'ordre. En somme, le Stanford Open Policing Project a été lancé pour fournir des données et des analyses crédibles qui peuvent informer les efforts visant à améliorer le système de justice pénale et à lutter contre les inégalités raciales et sociales qui persistent dans ce domaine.
+
+## Base de données 
+
+La base de données du Stanford Open Policing Project est une ressource riche et diversifiée qui recueille des données sur les arrêts de véhicules et de piétons effectués par les services de police à travers les États-Unis. Cette base de données est construite à partir de données publiques disponibles auprès de diverses agences de maintien de l'ordre à travers le pays. Les chercheurs du projet soumettent des demandes de données publiques aux agences de maintien de l'ordre à travers le pays. Ces demandes sont formulées en vertu des lois sur la liberté d'information et peuvent varier d'une juridiction à l'autre en termes de processus et de délais de reponse. Certaines agences de polices publient même volontairement des données sur leurs arrêts en ligne, souvent dans le cadre de leur engagement en faveur de la transparence. Dans certains cas, le Stanford Open Policing Project établit également des partenariats avec des agences de police pour obtenir des données sur les arrêts. Ces partenariats peuvent permettre une collaboration étroite avec les agences pour garantir la qualité et la précision des données collectées. Ces données sont ensuite harmonisées pour assurer une comparabilité et une cohérence maximales dans l'analyse et entre les différentes sources de données. Ceci passe par la standardisation des variables, la résolutions de doublons et des erreurs, ainsi que d'autres techniques pour garantir la qualité des données.
+
+La base de données comprend des informations détaillées sur chaque arrêt, telles que la date, l'heure, le lieu, la raison de l'arrêt, l'ethnicité de la personne arrêtée, le résultat de l'arrêt et d'autres variables pertinentes. Ces données sont collectées sur une période de temps étendue (du début des années 2000 jusqu'à 2023, selon les États), permettant d'analyser les tendances et les schémas à long terme dans le traitement des individus par les forces de l'ordre.
+
+La base de données est conçue pour être accessible au public, ce qui signifie que les chercheurs, les décideurs politiques, les journalistes et le grand public peuvent utiliser ces données pour mener des analyses, identifier des tendances et éclairer les discussions sur les réformes du maintien de l'ordre et de la justice pénale. En fournissant un accès transparent aux données sur les arrêts policiers, le Stanford Open Policing Project vise à promouvoir la responsabilité et à améliorer la confiance entre les forces de l'ordre et les communautés qu'elles servent.
+
+## Variables d'intérêt 
+
+Les données normalisées sur les arrêts sont divisées par État et sont regoupées, au sein de leur catégorie d'État, par emplacement ou région géographique. Il existe, pour chaque État, des données intitulées "State Patrol" qui englobent les données sur les arrêts effectués sur l'ensemble du territoire de l'État. Dans le cadre de cette étude, nous utiliseront les données de cette catégorie pour chaque État.
+
+Les varibles qui nous intéressent ici sont notamment: *citation_issued, warning_issued,* et *arrest_made*. Ce sont des variables dichotomiques indiquant si la personne arrêtée à reçu un avertissement, une contravention ou a subi une arrestation. Une autre variable se rajoute à ce lot: *outcome* indique la mesure la plus stricte prise parmi l'arrestation, l'avertissement, la contravention et la convocation.
+
+Ensuite, les variables sociodémographique qui nous intéressent sont: *subject_age, subject_race, subject_sex*, soit l'âge, l'ethnicité et le sexe de la personne arrêtée. Lorsque la date de naissance est fournie, l'âge est calculé en fonction de la date de l'arrêt.
+
+## Manipulation de la base de données 
+
+En raison de la catégorisation par État, charger et analyser tous les États simultanément prend beaucoup de temps et de puissance informatique. Nous pouvons remédier à cela en calculant des statistiques agrégées pour chaque État. Par exemple, nous pouvons calculer les taux de fouille pour chaque groupe d'âge, de sexe et de race dans chaque État, enregistrer ces taux, puis les charger pour calculer des statistiques au niveau national, décomposées par âge, race et sexe.
+
+Nous allons également examiner les observations au fil du temps dans chaque État (par exemple le nombre total d'arrêts et de fouilles par année) afin d'identifier les années pour lesquelles les données sont très rares. Nous pourrons donc les exclure de l'analyse.
+
+Cette base de données contient également des données sur la composition démographique des États. Nous pouvons donc l'utiliser pour ponderer les taux calculés selon la taille de la population (par exemple le taux de fouille des hispanics proportionnellement au nombre d'hispanics dans la population).
+
+Nous allons utiliser des régression linéaires pour établir des liens entre les variables mentionnées dans la section ci-dessus, ainsi que des régression logistiques pour étudier la probabilité de recevoir une contravention, un avertissement ou d'être arrêté selon son âge, son genre et son appartenance ethnique. Il serait également intéressant d'observer les taux d'arrestation, de fouille ou de contravention selon les ethnies et les genres.
+
+# Bibliographie 
+
+E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, D. Jenson, A. Shoemaker, V. Ramachandran, P. Barghouty, C. Phillips, R. Shroff, and S. Goel. “A large-scale analysis of racial disparities in police stops across the United States”. Nature Human Behaviour, Vol. 4, 2020.
